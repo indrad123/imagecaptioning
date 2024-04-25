@@ -1,2 +1,2 @@
-# imagecaptioning
+# Image Captioning
 Image Captioning Project
