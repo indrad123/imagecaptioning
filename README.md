@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# Image Captioning
 Image Captioning Project
 =======
 ---
